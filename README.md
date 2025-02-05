@@ -31,8 +31,8 @@ Here are a few projects I've worked on:
 
 ## Get in Touch
 
-- 📫 You can reach me via email at [your-email@example.com](mailto:your-email@example.com).
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile).
+- 📫 You can reach me via email at [gsaedegamer@gmail.com](mailto:gsaedegamer@gmail.com).
+- 💼 Connect with me on discord # warden___gamer
 
 ## GitHub Stats
 
